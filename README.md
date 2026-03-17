@@ -2,7 +2,7 @@
 
 ## Hydro KNIME
 --------------------
-Hydro KNIME workflow is an example of reprducible decsion support for identifying suitable site of hydrological refence stations. To execute Hydro KNIME please download [knwf workflow file](HydroKNIMEDecisionSupportWorkflow/HydroKNIMEWorkflowReferenceStations.knwf). 
+Hydro KNIME workflow is an example of reprducible decsion support for identifying suitable site of hydrological refence stations. To execute Hydro KNIME please download [knwf workflow file](HydroKNIMEDecisionSupportWorkflow/HydroKNIMEWorkflowReferenceStations.knwf). For input data sets please use our available [point datasets]().   
 
 ## Solar KNIME
 ---------------------
