@@ -2,6 +2,8 @@
 
 ## Hydro KNIME
 --------------------
+Hydro KNIME workflow is an example of reprducible decsion support for identifying suitable site of hydrological refence stations. To execute Hydro KNIME please download [knwf workflow file](HydroKNIMEDecisionSupportWorkflow/HydroKNIMEWorkflowReferenceStations.knwf). 
+
 ## Solar KNIME
 ---------------------
 Solar radiation modeling with KNIME. Increasing environmental model reproducibility and warantability by using scientific workflows
