@@ -1,13 +1,13 @@
 ## KNIME Workflows
 Hydro KNIME
 --------------------
-Solar KNIME workflows
+Solar KNIME
 ---------------------
 Solar radiation modeling with KNIME. Increasing environmental model reproducibility and warantability by using scientific workflows
 
 For all workflows users are required to install a freely available and open source KNIME Scientific Workflows Management System. KNIME can be downloaded from the following link: https://www.knime.com/downloads/download-knime.
 
-User manual: Minimal Knime Workflow for Solar Analyst 
+### User manual: Minimal Knime Workflow for Solar Analyst 
 ------------------
 Required input data:
 
@@ -45,7 +45,7 @@ Dependencies:
 
 Note: Workflows can be executed only on computer machines with Microsoft operating system because the ESRI ArcGIS installation is only available for Windows. 
 
-User manual: Workflow to expose solar radiation model details
+### User manual: Workflow to expose solar radiation model details
 --------------------------------------------------------------------------------------------------------------------------
 Required input data:
 
@@ -75,7 +75,7 @@ Dependencies:
 
 Workflows operates on Microsoft, Mac and Linux operative systems. 
 
-User manual: Workflow for machine learning parameter-setting assistance
+### User manual: Workflow for machine learning parameter-setting assistance
 ------------------------------------------------------------------------------------------------------------------------------
 
 Required input data:
