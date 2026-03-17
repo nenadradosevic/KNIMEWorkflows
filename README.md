@@ -1,4 +1,4 @@
-# KNIME workflows
+**Solar KNIME workflows**
 Solar radiation modeling with KNIME. Increasing environmental model reproducibility and warantability by using scientific workflows
 
 For all workflows users are required to install a freely available and open source KNIME Scientific Workflows Management System. KNIME can be downloaded from the following link: https://www.knime.com/downloads/download-knime.
