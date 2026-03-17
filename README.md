@@ -1,4 +1,4 @@
-# KNIME Workflows
+## KNIME Workflows
 Hydro KNIME
 --------------------
 Solar KNIME workflows
